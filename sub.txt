@@ -1,6 +1,4 @@
-ss://YWVzLTI1Ni1nY206djJyZXQ=@چنل ما...:443#t.me%2Fv2ret
-vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@95.38.102.7:4001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#V2RET--TCP--%F0%9F%8C%9F%C2%B9
+ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#t.me%2Fv2ret+%3C--+%DA%86%D9%86%D9%84
 vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@95.38.102.7:1001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#V2RET--TCP--%F0%9F%8C%9F%C2%B2
 vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@2.189.255.205:2001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#V2RET--TCP--%F0%9F%8C%9F%C2%B3
 vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@2.189.243.216:3001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#V2RET--TCP--%F0%9F%8C%9F%E2%81%B4
-ss://Y2hhY2hhMjAtcG9seTEzMDU6dTE3VDNCdnBZYWFpdVcyYw==@series-a2-mec.samanehha.co:443#V2RET+-+%E2%AD%90%EF%B8%8F+-+%28+%F0%9F%9F%A1%3A%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+-+%F0%9F%9F%A3%3A%D8%B1%D8%A7%DB%8C%D8%AA%D9%84+%29
