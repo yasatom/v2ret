@@ -1,1 +1,5 @@
-ss://YWVzLTI1Ni1nY206dC5tZS92MnJldA==@چنل ما v2ret ...:443#%E2%9D%8C%EF%B8%8F+%D8%B3%D8%B1%D9%88%DB%8C%D8%B3+%D8%B1%D8%A7%DB%8C%DA%AF%D8%A7%D9%86+%D8%BA%DB%8C%D8%B1%D9%81%D8%B9%D8%A7%D9%84+%D9%85%DB%8C%D8%A8%D8%A7%D8%B4%D8%AF+%E2%9D%8C%EF%B8%8F
+ss://YWVzLTI1Ni1nY206djJyZXQ=@چنل ما...:443#t.me%2Fv2ret
+vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@95.38.102.7:4001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#V2RET--TCP--%F0%9F%8C%9F%C2%B9
+vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@95.38.102.7:1001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#V2RET--TCP--%F0%9F%8C%9F%C2%B2
+vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@2.189.255.205:2001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#V2RET--TCP--%F0%9F%8C%9F%C2%B3
+vless://24b37c16-4fc4-4fa2-8c63-8ccdc121c426@2.189.243.216:3001?security=none&encryption=none&host=speedtest.net&headerType=http&type=tcp#V2RET--TCP--%F0%9F%8C%9F%E2%81%B4
