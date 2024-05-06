@@ -107,5 +107,3 @@
     ]
   }
 }
-
-vless://---ELiV2Ray-ELiV2Ray---@188.114.98.224:80?path=%2Ftelegram-%40EliV2ray%2Ctelegram-%40EliV2ray%3Fed&security=none&encryption=none&host=EliV2ray.naziitness.com.&type=ws#V2RET-France-%F0%9F%87%A8%F0%9F%87%B5-%F0%9F%8C%9F
