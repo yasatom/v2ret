@@ -1,3 +1,109 @@
-vless://22efc3df-3756-4f43-bc84-00cf8c757ca8@185.143.233.5:8080?path=%2F&security=none&encryption=none&host=webobin.site&type=ws#V2RET-nim-%F0%9F%8C%9F%C2%B9
-vless://44a110e0-3941-4c40-8f13-c4cd89fdffc4@185.143.233.5:80?path=%2F&security=none&encryption=none&host=trob.com&type=ws#V2RET-nim-%F0%9F%8C%9F%C2%B2
-vless://4351e5c1-d1fc-4385-a3ed-6d96f5380395@185.143.233.5:8080?path=%2F&security=none&encryption=none&host=trob.com&type=ws#V2RET-nim-%F0%9F%8C%9F%C2%B3
+{
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com"
+    },
+    "servers": [
+      "1.1.1.1"
+    ]
+  },
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": 32,
+        "enabled": true,
+        "xudpConcurrency": 32,
+        "xudpProxyUDP443": "reject"
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "blog.avayebozorgan.com",
+            "port": 80,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "d0dc5cf3-36f5-47ba-9321-3b10245a02fb",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "ws",
+        "security": "",
+        "wsSettings": {
+          "headers": {
+            "Host": "cloudmehranvmmdv2ray.v2rayng6.6.6.6.ir.com.site.列列男事的事列上赛.Avayebozorgan.COm."
+          },
+          "path": "/telegram-@v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-V2rayngv2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-V2rayngmmd,Mmdv2rayn-V2rayngv2speed-telegram-v2speedvpn_bot?ed=2056"
+        }
+      },
+      "tag": "proxy"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {},
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "remarks": "V2RET-FREE-⭐️-< ۱۰۰ گیگابایت >",
+  "routing": {
+    "domainStrategy": "IPIfNonMatch",
+    "rules": [
+      {
+        "ip": [
+          "1.1.1.1"
+        ],
+        "outboundTag": "proxy",
+        "port": "53",
+        "type": "field"
+      }
+    ]
+  }
+}
