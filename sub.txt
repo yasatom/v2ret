@@ -51,7 +51,7 @@
       "settings": {
         "vnext": [
           {
-            "address": "blog.avayebozorgan.com",
+            "address": "104.22.13.192",
             "port": 80,
             "users": [
               {
@@ -67,7 +67,7 @@
       },
       "streamSettings": {
         "network": "ws",
-        "security": "",
+        "security": "none",
         "wsSettings": {
           "headers": {
             "Host": "cloudmehranvmmdv2ray.v2rayng6.6.6.6.ir.com.site.列列男事的事列上赛.Avayebozorgan.COm."
