@@ -51,13 +51,13 @@
       "settings": {
         "vnext": [
           {
-            "address": "104.22.13.192",
+            "address": "WWW.SPEEDTEST.NET",
             "port": 80,
             "users": [
               {
                 "encryption": "none",
                 "flow": "",
-                "id": "d0dc5cf3-36f5-47ba-9321-3b10245a02fb",
+                "id": "-ELiV2Ray--ELiV2Ray-",
                 "level": 8,
                 "security": "auto"
               }
@@ -67,12 +67,12 @@
       },
       "streamSettings": {
         "network": "ws",
-        "security": "none",
+        "security": "",
         "wsSettings": {
           "headers": {
-            "Host": "cloudmehranvmmdv2ray.v2rayng6.6.6.6.ir.com.site.列列男事的事列上赛.Avayebozorgan.COm."
+            "Host": "Eli.V2ray.motorcycles"
           },
-          "path": "/telegram-@v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-V2rayngv2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-v2speedvpn,telegram-V2rayngmmd,Mmdv2rayn-V2rayngv2speed-telegram-v2speedvpn_bot?ed=2056"
+          "path": "/Eli.V2ray.motorcycles"
         }
       },
       "tag": "proxy"
@@ -92,7 +92,7 @@
       "tag": "block"
     }
   ],
-  "remarks": "V2RET-FREE-⭐️-< ۱۰۰ گیگابایت >",
+  "remarks": "V2RET–All–🌟",
   "routing": {
     "domainStrategy": "IPIfNonMatch",
     "rules": [
