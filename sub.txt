@@ -1,1 +1,2 @@
+vless://bdc97a5d-d936-4621-81b7-4a041122ca67@con1.denoxshopy.site:11025?security=none&encryption=none&headerType=none&type=tcp#V2RET%E2%80%93%F0%9F%8C%9F-%F0%9F%87%A9%F0%9F%87%AA-%F0%9F%8C%9F%E2%80%93FREE
 vless://50123544-01f8-41f5-a469-0554d37125bd@tnl5.radmehrmax.ir:8097?security=none&encryption=none&headerType=http&type=tcp#%D9%85%D9%88%D9%82%D8%AA+%28+%F0%9F%9F%A1%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84+%29
