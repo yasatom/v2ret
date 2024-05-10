@@ -1,1 +1,2 @@
 vless://58e03fe3-7e78-4aa3-935b-4cff5f9e3fda@con4.denoxshopy.site:11025?security=none&encryption=none&headerType=none&type=tcp#V2RET%E2%80%93%F0%9F%8C%9F-%F0%9F%87%A9%F0%9F%87%AA-%F0%9F%8C%9F%E2%80%93FREE
+vless://a3cd08f3-5aec-4736-f582-7f92311cbf76@185.143.233.5:8080?path=%2F%3FV2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET&security=none&encryption=none&host=jytdjytdkjytdk.ir&type=ws#v2ret%E2%80%93%F0%9F%92%AE-%F0%9F%87%A9%F0%9F%87%AA-%F0%9F%92%AE%E2%80%93nim
