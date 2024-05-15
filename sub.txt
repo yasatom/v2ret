@@ -1,1 +1,1 @@
-vless://e853bd83-91c2-43de-bfb4-048824d7d981@14-U-ievfj.cons.denoxshopy.site:11025?security=none&encryption=none&headerType=none&type=tcp#V2RET%E2%80%93%F0%9F%8C%9F-%F0%9F%87%A9%F0%9F%87%AA-%F0%9F%8C%9F%E2%80%93FREE
+vless://a163b46b-7d5e-41f0-80ad-ef42c4696a83@212.33.206.80:37753?security=none&encryption=none&headerType=http&type=tcp#V2RET%E2%80%93%F0%9F%8C%9F-%F0%9F%87%A9%F0%9F%87%AA-%F0%9F%8C%9F%E2%80%93FREE
