@@ -1,2 +1,1 @@
-vless://026e6a0b-043b-4999-8395-bbe97ae1379f@9-U-12v34.ger1.dnxcon.cfd:11025?security=none&encryption=none&headerType=none&type=tcp#V2RET%E2%80%93%F0%9F%8C%9F-%F0%9F%87%A9%F0%9F%87%AA-%F0%9F%8C%9F%E2%80%93FREE%C2%B9
-vless://6a61ad0e-fdb6-4f5e-9573-556d64862ebb@66-U-pjgy7.ger2.dnxcon.cfd:11025?security=none&encryption=none&headerType=none&type=tcp#V2RET%E2%80%93%F0%9F%8C%9F-%F0%9F%87%A9%F0%9F%87%AA-%F0%9F%8C%9F%E2%80%93FREE%C2%B2
+vless://27f8b3b1-561c-4154-a038-bc5b5ecda036@185.143.233.5:80?path=%2Fwss38248%3Fed%3D2048%2F%3FV2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET--V2RET&security=none&encryption=none&host=kh.jerifun.ir&type=ws#v2ret%E2%80%93%F0%9F%92%AE-%F0%9F%87%A9%F0%9F%87%AA-%F0%9F%92%AE%E2%80%93nim
