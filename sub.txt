@@ -1,4 +1,2 @@
-vless://6ec80417-666d-4bb0-c417-d5f3c5f7fbf2@62.60.161.148:14327?type=tcp&path=%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2F&host=webmail.yjc.ir&headerType=http&security=none#f1
-vless://835b7e4b-126c-4f2b-de88-c0fd541a5af0@62.60.161.148:33265?type=tcp&path=%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2F&host=webmail.yjc.ir&headerType=http&security=none#f2
-vless://bec7bdd5-36bb-4560-d85c-95059611cb04@178.239.145.4:56025?type=tcp&path=%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2F&host=webmail.yjc.ir&headerType=http&security=none#f3
-vless://29bdaa2c-fa26-4d55-b7eb-2d6258dfc561@ir.panwiz.site:8443?security=none&encryption=none&headerType=http&type=tcp#fi-4
+vless://48f1c97a-26ef-49d0-eb49-27181c8b1dcd@62.60.161.148:33265?security=none&encryption=none&host=webmail.yjc.ir&headerType=http&type=tcp#t2
+vless://a4bd931b-160e-484e-c113-6d8ccf97e3da@178.239.145.4:56025?security=none&encryption=none&host=webmail.yjc.ir&headerType=http&type=tcp#t1
