@@ -1,0 +1,1 @@
+vless://8fba3304-bb4e-418e-868f-b27b33109135@www.speedtest.net:80?path=%2FSvnTeamV2ray%3Fed%3D2048&security=none&encryption=none&host=xn--2-ep9a49z.xn--jhq403ertg.CoM.&type=ws#MTN
