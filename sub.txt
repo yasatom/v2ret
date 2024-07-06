@@ -1,0 +1,2 @@
+vless://cf3cb005-a2a4-474c-b39b-76822e62940b@aminnode.opetacloud.ir:2083?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=aminnode.opetacloud.ir#%F0%9F%87%B3%F0%9F%87%B1+-+%D9%87%D9%85%D9%87+%D8%A7%DB%8C%D9%86%D8%AA%D8%B1%D9%86%D8%AA+%D9%87%D8%A7
+vless://cf3cb005-a2a4-474c-b39b-76822e62940b@realamin.liongame2.ir:2093?security=reality&encryption=none&pbk=7kjyM2dPWAj_zy6VnB88fevwjT4m3XRna6H2rfSEdH0&fp=chrome&type=http&sni=stackoverflow.com&sid=d710e2b9#%F0%9F%87%B3%F0%9F%87%B1+-+%D8%A7%DB%8C%D8%B1%D8%A7%D9%86%D8%B3%D9%84-Wi-Fi
