@@ -1,6 +1,1 @@
-vless://ef36af27-76c0-48db-9139-2f83cf333e59@aminnode.opetacloud.ir:2083?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=aminnode.opetacloud.ir#%F0%9F%87%B3%F0%9F%87%B1+-+All+net
-vless://ef36af27-76c0-48db-9139-2f83cf333e59@aminnode.epicmarket-cm.ir:2083?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=aminnode.epicmarket-cm.ir#%F0%9F%87%B8%F0%9F%87%AA+-+All+net
-vless://ef36af27-76c0-48db-9139-2f83cf333e59@aminnode.admin-chephost.ir:2083?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=aminnode.admin-chephost.ir#%F0%9F%87%AE%F0%9F%87%B9+-+All+net
-vless://ef36af27-76c0-48db-9139-2f83cf333e59@realamin.zarashop1.ir:2093?security=reality&encryption=none&pbk=7kjyM2dPWAj_zy6VnB88fevwjT4m3XRna6H2rfSEdH0&fp=chrome&type=http&sni=stackoverflow.com&sid=d710e2b9#%F0%9F%87%B8%F0%9F%87%AA+-+Irancell+-+Wi-Fi
-vless://ef36af27-76c0-48db-9139-2f83cf333e59@realamin.liongame2.ir:2093?security=reality&encryption=none&pbk=7kjyM2dPWAj_zy6VnB88fevwjT4m3XRna6H2rfSEdH0&fp=chrome&type=http&sni=stackoverflow.com&sid=d710e2b9#%F0%9F%87%B3%F0%9F%87%B1+-+Irancell+-+Wi-Fi
-vless://ef36af27-76c0-48db-9139-2f83cf333e59@realamin.admin-chephost.ir:2093?security=reality&encryption=none&pbk=7kjyM2dPWAj_zy6VnB88fevwjT4m3XRna6H2rfSEdH0&fp=chrome&type=http&sni=stackoverflow.com&sid=d710e2b9#%F0%9F%87%AE%F0%9F%87%B9+-+Irancell+-+Wi-Fi
+vless://v2ret@0.0.0.1:2083?security=tls&encryption=none&type=ws&sni=v2ret-ir#%E2%9D%8C+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D9%81%D9%84%D8%A7%DB%8C%D9%86+%D9%85%DB%8C%D8%A8%D8%A7%D8%B4%D8%AF+%E2%9D%8C
