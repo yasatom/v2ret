@@ -1,1 +1,2 @@
 vless://dcc3148c-b082-4453-a785-1bb7d366d87b@94.182.223.111:57408?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-94.182.223.111%3A57408
+vless://74817049-1a57-4cb1-84f2-b98ee30b4987@87.107.162.244:25104?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#t
