@@ -1,1 +1,1 @@
-vless://v2ret@0.0.0.1:2083?security=tls&encryption=none&type=ws&sni=v2ret-ir#%E2%9D%8C+%D8%B3%D8%B1%D9%88%D8%B1+%D8%A7%D9%81%D9%84%D8%A7%DB%8C%D9%86+%D9%85%DB%8C%D8%A8%D8%A7%D8%B4%D8%AF+%E2%9D%8C
+vless://dcc3148c-b082-4453-a785-1bb7d366d87b@94.182.223.111:57408?security=none&encryption=none&headerType=none&type=tcp#%F0%9F%94%92+VL-TCP-NONE+%F0%9F%87%AE%F0%9F%87%B7+IR-94.182.223.111%3A57408
