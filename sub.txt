@@ -1,1 +1,167 @@
-vless://5af10469-3ec3-4353-94d2-297b7215a15b@172.67.177.201:443?path=%2Fws&security=tls&encryption=none&host=continuity.sasuke.ir&type=ws&sni=continuity.sasuke.ir#%23%D9%85%D9%88%D9%82%D8%AA
+{
+  "dns": {
+    "hosts": {
+      "domain:googleapis.cn": "googleapis.com"
+    },
+    "servers": [
+      "https://free.shecan.ir/dns-query",
+      {
+        "address": "8.8.4.4",
+        "domains": [
+          "geosite:private",
+          "domain:ir"
+        ],
+        "expectIPs": [
+          "geoip:cn"
+        ],
+        "port": 53
+      }
+    ]
+  },
+  "fakedns": [
+    {
+      "ipPool": "198.18.0.0/15",
+      "poolSize": 10000
+    }
+  ],
+  "inbounds": [
+    {
+      "listen": "127.0.0.1",
+      "port": 10808,
+      "protocol": "socks",
+      "settings": {
+        "auth": "noauth",
+        "udp": true,
+        "userLevel": 8
+      },
+      "sniffing": {
+        "destOverride": [
+          "http",
+          "tls",
+          "fakedns"
+        ],
+        "enabled": true
+      },
+      "tag": "socks"
+    },
+    {
+      "listen": "127.0.0.1",
+      "port": 10809,
+      "protocol": "http",
+      "settings": {
+        "userLevel": 8
+      },
+      "tag": "http"
+    }
+  ],
+  "log": {
+    "loglevel": "warning"
+  },
+  "outbounds": [
+    {
+      "mux": {
+        "concurrency": 2,
+        "enabled": true,
+        "xudpConcurrency": 2,
+        "xudpProxyUDP443": "allow"
+      },
+      "protocol": "vless",
+      "settings": {
+        "vnext": [
+          {
+            "address": "85.9.122.14",
+            "port": 28588,
+            "users": [
+              {
+                "encryption": "none",
+                "flow": "",
+                "id": "Join-bede-channel-v2Rez",
+                "level": 8,
+                "security": "auto"
+              }
+            ]
+          }
+        ]
+      },
+      "streamSettings": {
+        "network": "tcp",
+        "security": "",
+        "tcpSettings": {
+          "header": {
+            "request": {
+              "headers": {
+                "Connection": [
+                  "keep-alive"
+                ],
+                "Host": [],
+                "Pragma": "no-cache",
+                "Accept-Encoding": [
+                  "gzip, deflate"
+                ],
+                "User-Agent": [
+                  "Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/53.0.2785.143 Safari/537.36",
+                  "Mozilla/5.0 (iPhone; CPU iPhone OS 10_0_2 like Mac OS X) AppleWebKit/601.1 (KHTML, like Gecko) CriOS/53.0.2785.109 Mobile/14A456 Safari/601.1.46"
+                ]
+              },
+              "method": "GET",
+              "path": [
+                "/"
+              ],
+              "version": "1.1"
+            },
+            "type": "http"
+          }
+        }
+      },
+      "tag": "proxy"
+    },
+    {
+      "protocol": "freedom",
+      "settings": {
+        "domainStrategy": "UseIP"
+      },
+      "tag": "direct"
+    },
+    {
+      "protocol": "blackhole",
+      "settings": {
+        "response": {
+          "type": "http"
+        }
+      },
+      "tag": "block"
+    }
+  ],
+  "remarks": "ts-tunnel",
+  "routing": {
+    "domainStrategy": "AsIs",
+    "rules": [
+      {
+        "ip": [
+          "8.8.4.4"
+        ],
+        "outboundTag": "direct",
+        "port": "53"
+      },
+      {
+        "domain": [
+          "geosite:private",
+          "geosite :category-ir",
+          "domain:ir"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "ip": [
+          "geoip:private",
+          "geoip:ir"
+        ],
+        "outboundTag": "direct"
+      },
+      {
+        "outboundTag": "proxy",
+        "port": "0-65535"
+      }
+    ]
+  }
+}
