@@ -1,5 +1,2 @@
 vless://fa7829d6-d3ce-4a0d-cbf4-aedf98a17a48@185.143.233.5:80?path=%2F&security=none&encryption=none&host=devar.ir&type=ws#v2ret+-+%F0%9F%8C%A5+%F0%9F%87%B3%F0%9F%87%B1+%F0%9F%8C%A5+-+nim+%7C+%D9%86%DB%8C%D9%85%E2%80%8C%D8%A8%D9%87%D8%A7
-vless://cf3cb005-a2a4-474c-b39b-76822e62940b@realamin.chephost.ir:2093?security=reality&encryption=none&pbk=7kjyM2dPWAj_zy6VnB88fevwjT4m3XRna6H2rfSEdH0&fp=chrome&type=http&sni=stackoverflow.com&sid=d710e2b9#%F0%9F%87%B3%F0%9F%87%B1+-+Irancell+-+Wi-Fi+%F0%9F%8C%9F
-vless://cf3cb005-a2a4-474c-b39b-76822e62940b@aminnode1.epicmarket-cm.ir:2083?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=aminnode1.epicmarket-cm.ir#%F0%9F%87%B8%F0%9F%87%AA+-+ALL+NET
-vless://cf3cb005-a2a4-474c-b39b-76822e62940b@aminnode1.chephost.ir:2083?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=aminnode1.chephost.ir#%F0%9F%87%B3%F0%9F%87%B1+-+ALL+NET
-vless://cf3cb005-a2a4-474c-b39b-76822e62940b@aminnode1.admin-chephost.ir:2083?security=tls&encryption=none&alpn=h2,http/1.1&fp=chrome&type=ws&sni=aminnode1.admin-chephost.ir#%F0%9F%87%AE%F0%9F%87%B9+-+ALL+NET
+vless://a95e97f0-d8ce-4316-ab9d-64c512f85d61@212.23.214.147:30046?security=none&encryption=none&headerType=http&type=tcp#%F0%9F%87%A9%F0%9F%87%AA+-+ALL+NET+%F0%9F%8C%9F
