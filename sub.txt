@@ -1,1 +1,1 @@
-vless://1f1a45c5-8d95-40d1-9b1d-3f654c7e63d9@www.speedtest.net:443?path=%2FTELEGRAM-PROXY_MTM%2F%3Fed%3D2560&security=tls&encryption=none&alpn=h2,http/1.1&host=alecruiz.pages.dev&fp=randomized&type=ws&sni=alecruiz.pages.dev#%40v2ret
+vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#%F0%9F%94%B9%EF%B8%8F
