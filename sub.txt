@@ -1,1 +1,2 @@
-vless://bcf50589-9654-4331-93a6-da896914ec47@172.66.47.2:443?path=%2F%3Fed%3D2048&security=tls&encryption=none&host=de4ecf6b.isvphp-4g8.pages.dev&type=ws&sni=de4ecf6b.isvphp-4g8.pages.dev#%F0%9F%94%B9%EF%B8%8F
+vless://cc6ae7df-969a-4d74-92e5-3568880267aa@46.245.70.75:20652?type=tcp&path=%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2FViraV2ray%2F&headerType=http&security=none#v2ret+%F0%9F%87%AE%F0%9F%87%B7-%F0%9F%87%A9%F0%9F%87%AA
+vless://f408696c-cdbe-49a1-90e9-ab602003315c@199.232.169.135:80?path=%2FMinoVpnCh%3Fed%3D2048&security=none&encryption=none&host=googleb.net&type=ws#%F0%9F%94%B9%EF%B8%8F
