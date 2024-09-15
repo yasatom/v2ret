@@ -1,1 +1,1 @@
-vless://a9f44403-f414-4316-baad-8e999681ed1e@www.speedtest.net:80?path=%2Fwww.Speedtest.net%3Fed%3D1024&security=none&encryption=none&host=99.a.v.y.www.speedtest.net.ftp.debian.iu.photoshott.ir&type=ws#irancel
+vless://3853f2b3-5cfb-440e-b439-30caa989b10e@ir3.ordeloil.com:2711?security=none&encryption=none&host=telewebion.com&headerType=http&type=tcp#%F0%9F%87%AC%F0%9F%87%A7-UK-%40v2ret-%28FREE%29
