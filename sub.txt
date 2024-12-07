@@ -1,1 +1,2 @@
+vless://6ea5e6c0-df89-4f37-bdfe-e2cad134d889@info:1403?security=none&encryption=none&headerType=none&type=tcp#%D9%87%D8%B1+%D8%B1%D9%88%D8%B2+%D9%84%DB%8C%D9%86%DA%A9%D8%AA%D9%88%D9%86%D9%88+%D8%A2%D9%BE%D8%AF%DB%8C%D8%AA+%D8%A8%D8%B2%D9%86%DB%8C%D8%AF+%F0%9F%90%B8+%D9%88%D8%B6%D8%B9%DB%8C%D8%AA%3A+%E2%9C%85%EF%B8%8F
 vless://ID-ViraV2ray-1569@purina.rs:443?security=tls&alpn=h2,http/1.1&fp=firefox&sni=purina.rs&type=ws&path=digikala.com%2Flogin%2F%40ViraV2ray%2C%40ViraV2ray%2C%40ViraV2ray%3Fed%3D443&host=telegram-id-ViraV2ray.com&encryption=none#@v2ret
