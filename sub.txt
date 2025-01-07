@@ -7,4 +7,4 @@ vless://43961221-e987-47b4-89b5-27106946b733@tgju.org:80?path=%2Fhajmi%3F*aiojef
 vless://cae36c04-80b2-4085-b16a-87b98d8dc8bf@140.248.168.81:443?path=%2Fcontainers%2Ffi%3Fed%3D2560&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=nemigam.com&fp=random&type=ws#v2ret%20%7E%20%F0%9F%8C%9F%E2%81%B6
 vless://cae36c04-80b2-4085-b16a-87b98d8dc8bf@biography.com:80?path=%2Fcontainers%2Ffi%3Fed%3D1024&security=none&encryption=none&host=nemigam.com&type=ws#v2ret%20%7E%20%F0%9F%8C%9F%E2%81%B7
 vless://cae36c04-80b2-4085-b16a-87b98d8dc8bf@167.82.231.255:443?path=%2Fcontainers%2Fde&security=tls&alpn=h3%2Ch2%2Chttp%2F1.1&encryption=none&host=itpiran.ir&fp=random&type=ws&sni=bwdraper.faculty.ucdavis.edu#v2ret%20%7E%20%F0%9F%8C%9F%E2%81%B8
-vless://cae36c04-80b2-4085-b16a-87b98d8dc8bf@biography.com:80?path=%2Fcontainers%2Fde&security=none&encryption=none&host=itpiran.ir&type=ws#v2ret%20%7E%20%F0%9F%8C%9F%E2%81%B9
+vless://cae36c04-80b2-4085-b16a-87b98d8dc8bf@biography.com:80?path=%2Fcontainers%2Fde&security=none&encryption=none&host=itpiran.ir&type=ws#v2ret%20%7E%20%F0%9F%8C%9F%E2%81%B
